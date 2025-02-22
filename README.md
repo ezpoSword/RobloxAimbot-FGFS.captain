@@ -22,7 +22,7 @@ FGFS Aim Assist is **not** an aimbot. This script is designed to assist with aim
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ezpoSword/RobloxAimbot-FGFS.captain/refs/heads/main/ExecuterScript.lua"))()
 ```
 - Version: 1.1.6
-last updated on February 22, 2025
+- last updated on February 22, 2025
 
 ## 🔗 Support & Feedback  
 
