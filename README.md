@@ -16,6 +16,13 @@ FGFS Aim Assist is **not** an aimbot. This script is designed to assist with aim
 
 🚨 **IMPORTANT:** To activate the features, **click each of the three buttons twice**. This ensures the settings are properly enabled.  
 
+## 😎 Script
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ezpoSword/RobloxAimbot-FGFS.captain/refs/heads/main/ExecuterScript.lua"))()
+```
+- Version: 1.0.5
+
 ## 🔗 Support & Feedback  
 
 For help or to report issues, join our Discord server:  
