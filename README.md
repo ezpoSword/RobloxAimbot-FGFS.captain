@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/448cd646-7ced-4bcd-b314-f731529b71a4)# FGFS Aim Assist (NOT an Aimbot)  
+# FGFS Aim Assist (NOT an Aimbot)  
 
 ## 🎯 About  
 
@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ezpoSword/RobloxAimbo
 ```
 - Version: 1.1.6
 - last updated on February 22, 2025
-  
+
 ![image](https://github.com/user-attachments/assets/d0b49ca1-88b1-4dfc-bce3-17268e665d3b)
 
 
